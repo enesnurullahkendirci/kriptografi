@@ -1,2 +1,6 @@
 # kriptografi
-Kriptografi dersi kodları
+
+
+Kriptografi dersi vize/final ödevlerinin çözümü.
+
+Verilen ödevler readme dosyalarına eklenmiştir.
